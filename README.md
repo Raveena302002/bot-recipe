@@ -21,3 +21,9 @@ Rather than this numbers it shows the invalid type.
 
 # Flow chart representing Recipebot
 https://github.com/Raveena302002/bot-recipe/blob/main/ReceipeBotFlowChart.ppt.pptx
+
+# My youtube link
+https://youtu.be/_SZg3Cv7dPc
+
+# My resources link
+https://simpleindianrecipes.com/restaurant.aspx
